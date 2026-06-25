@@ -1,0 +1,24 @@
+{
+  "versions": {
+    "minecraft": "1.20.1",
+    "forge": "47.4.20"
+  },
+
+  "sistema":{
+    "min_ram" : "1G",
+    "max_ram" : "5G"
+  },
+  "world": {
+    "level-name": "El Server de Kstro",
+    "motd":"\u00a74QUE\u00a7r \u00a7m\u00a7d\u00a7mCHUCHA\u00a7a \u00a7nSALEEEE!!!",
+    "gamemode": "survival",
+    "difficulty": "normal",
+    "max-players": 10,
+    "spawn-protection": 5,
+    "enable-command-block": true,
+    "allow-nether": true,
+    "allow-end": true,
+    "pvp": true,
+    "online-mode": false
+  }
+}

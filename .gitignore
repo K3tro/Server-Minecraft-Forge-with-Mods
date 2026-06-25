@@ -1,0 +1,10 @@
+# SERVER/ (datos generados - NO SUBIR)
+SERVER/
+
+# Archivos generados
+INSTALLER.jar
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
