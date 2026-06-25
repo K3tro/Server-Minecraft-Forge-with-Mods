@@ -21,8 +21,7 @@ COPY config.json /data/config.json
 COPY mods/ /data/mods/
 
 # Puerto del servidor (usado por minecraft por default)
-EXPOSE 25565/tcp
-EXPOSE 25565/udp
+EXPOSE 25565
 
 # Entrypoint: idle.sh (mantiene el contenedor vivo, y nada mas)
 ENTRYPOINT ["/data/idle.sh"]
