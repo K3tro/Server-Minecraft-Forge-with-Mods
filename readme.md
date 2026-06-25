@@ -156,7 +156,7 @@ rm -rf SERVER/
 
 ---
 
-## 🙏 Créditos
+## Créditos
 
 Este proyecto se apoya en el trabajo de:
 
@@ -171,7 +171,7 @@ Este proyecto se apoya en el trabajo de:
 - **[Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)** por [sbom_xela](https://www.curseforge.com/members/sbom_xela/projects)
 - **[Terrallith](https://www.curseforge.com/minecraft/mc-mods/terralith)** por [Starmute](https://www.curseforge.com/members/starmute/projects)
 
-### 🐳 Tecnologías
+### Tecnologías
 - **[Docker](https://www.docker.com/)** - Contenerización y despliegue.
 - **[OpenJDK](https://openjdk.org/)** - Entorno de ejecución Java.
 
